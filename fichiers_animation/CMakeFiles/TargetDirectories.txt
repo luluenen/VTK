@@ -1,0 +1,5 @@
+/homes/lzhao/305B/fichiers_animation 2/fichiers_animation/CMakeFiles/edit_cache.dir
+/homes/lzhao/305B/fichiers_animation 2/fichiers_animation/CMakeFiles/animstb2.dir
+/homes/lzhao/305B/fichiers_animation 2/fichiers_animation/CMakeFiles/worm2.dir
+/homes/lzhao/305B/fichiers_animation 2/fichiers_animation/CMakeFiles/rebuild_cache.dir
+/homes/lzhao/305B/fichiers_animation 2/fichiers_animation/CMakeFiles/hanoi.dir

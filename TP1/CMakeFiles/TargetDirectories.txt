@@ -1,0 +1,3 @@
+/homes/lzhao/305B/TP_F4B305/CMakeFiles/edit_cache.dir
+/homes/lzhao/305B/TP_F4B305/CMakeFiles/rebuild_cache.dir
+/homes/lzhao/305B/TP_F4B305/CMakeFiles/Cube.dir

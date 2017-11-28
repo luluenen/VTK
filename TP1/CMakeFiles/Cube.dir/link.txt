@@ -1,0 +1,1 @@
+/usr/bin/c++     -Wno-deprecated    CMakeFiles/Cube.dir/Cube.cxx.o  -o Cube -rdynamic /usr/lib/libvtkRendering.so.5.10.1 /usr/lib/libvtkIO.so.5.10.1 /usr/lib/libvtkGraphics.so.5.10.1 /usr/lib/libvtkImaging.so.5.10.1 /usr/lib/libvtkFiltering.so.5.10.1 /usr/lib/libvtkCommon.so.5.10.1 /usr/lib/libvtksys.so.5.10.1 -ldl -lm 

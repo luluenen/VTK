@@ -1,0 +1,4 @@
+/homes/lzhao/305B/TP2/TP2/CMakeFiles/rebuild_cache.dir
+/homes/lzhao/305B/TP2/TP2/CMakeFiles/edit_cache.dir
+/homes/lzhao/305B/TP2/TP2/CMakeFiles/Medical4.dir
+/homes/lzhao/305B/TP2/TP2/CMakeFiles/Medical1.dir
